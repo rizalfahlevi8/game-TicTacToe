@@ -53,3 +53,7 @@ Players take turns selecting squares on the board to place their symbol. The gam
 - **React:** A JavaScript library for building dynamic user interfaces.
 - **TailwindCSS:** A utility-first CSS framework for rapid styling and responsiveness.
 - **Vite:** A fast frontend build tool for modern web development.
+
+## Contributions
+
+Contributions are welcome! Feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
