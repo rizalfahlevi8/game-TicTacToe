@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/rizalfahlevi8/game-TicTacToe/blob/main/images/title.png?raw=true" alt="Tic-Tac-Toe Title" />
+</div>
+
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built using React and styled with TailwindCSS. This project allows users to play in two modes: Single Player (where the player always plays as 'X') and Two Player (local multiplayer).
@@ -11,7 +15,13 @@ A simple Tic-Tac-Toe game built using React and styled with TailwindCSS. This pr
 
 ## Demo
 
+<div align="center">
+  <img src="https://github.com/rizalfahlevi8/game-TicTacToe/blob/main/images/demo.png?raw=true" alt="Tic-Tac-Toe Title" />
+</div>
+<br>
+
 Check out the live demo [here](https://rizalfahlevi8-tictactoe.vercel.app/)
+<br>
 
 ## Installation
 
